@@ -5,9 +5,11 @@
 ---
 
 ## 🚀 Skills
+- HTML, CSS, JavaScript
 - Python
 - Flask
-- HTML, CSS, JavaScript
+- File Handling, Data Processing using JSON
+- Basic Backend Development
 
 ---
 
