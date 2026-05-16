@@ -18,7 +18,7 @@
       - 🔗 https://github.com/Debajit-Saha690/My-Portfolio
 ### 👨‍💻 Candidate Screening & Ranking System
       - Flask-based web app for candidate filtering and ranking.
-      - 🔗 https://github.com/Debajit-Saha690/candidate-screening-system
+      - 🔗 https://github.com/Debajit-Saha690/Candidate-Screening-System
 
 ---
 
