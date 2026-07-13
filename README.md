@@ -18,11 +18,12 @@
       - 🔗 https://github.com/Debajit-Saha690/My-Portfolio
 ### 👨‍💻 Candidate Screening & Ranking System
       - Flask-based web app for candidate filtering and ranking.
-      - 🔗 https://github.com/Debajit-Saha690/Candidate-Screening-System
-      - Live: https://candidate-screening-system-f7m6.onrender.com/
+      - 🔗 GitHub Link: https://github.com/Debajit-Saha690/Candidate-Screening-System
+      - 🔗 Live Link: https://candidate-screening-system-f7m6.onrender.com/
 ### 📦 Inventory & Sales Management System
       - Flask-based web app for managing inventory, tracking sales transactions, and generating real-time analytics with dashboard and reports.
-      - 🔗 https://github.com/Debajit-Saha690/Inventory-Sales-Management-System
+      - 🔗 GitHub Link: https://github.com/Debajit-Saha690/Inventory-Sales-Management-System
+      - 🔗 Live Link: https://inventory-sales-management-system-3ro6.onrender.com/
 
 ---
 
