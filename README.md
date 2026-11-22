@@ -7,10 +7,9 @@
 ## 🚀 Skills
 - 💻 Languages: Python (core), Java (DSA & OOP)
 - 🌐 Frontend: HTML, CSS
-- ⚙️ Backend: Flask
+- ⚙️ Backend: Python (Flask)
 - 🗄️ Databases: MySQL
 - 🛠️ Tools: Git, GitHub
-- ☁️ Cloud Platforms: TiDB Cloud, Render
   
 ---
 
@@ -22,10 +21,6 @@
       - Flask-based web application for candidate filtering and ranking.
       - 🔗 GitHub: https://github.com/Debajit-Saha690/Candidate-Screening-System
       - 🔗 Live Demo: https://candidate-screening-system-f7m6.onrender.com/
-### 📦 Inventory & Sales Management System
-      - Flask-based web application for managing inventory, tracking sales transactions, and generating real-time analytics with dashboard and reports.
-      - 🔗 GitHub: https://github.com/Debajit-Saha690/Inventory-Sales-Management-System
-      - 🔗 Live Demo: https://inventory-sales-management-system-3ro6.onrender.com/
 
 ---
 
