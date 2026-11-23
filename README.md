@@ -1,15 +1,15 @@
 # Hi 👋 I'm Debajit Saha
 - 🎓 B.Tech CSE Undergraduate at Techno Institute of Engineering & Management Banipur, Affiliated to MAKAUT. 
-- 💻 Aspiring Software Developer.
+- 💻 Aspiring AI & Software Developer.
 
 ---
 
 ## 🚀 Skills
-- 💻 Languages: Python (core), Java (DSA & OOP)
-- 🌐 Frontend: HTML, CSS
-- ⚙️ Backend: Python (Flask)
-- 🗄️ Databases: MySQL
-- 🛠️ Tools: Git, GitHub
+- 💻 Programming Languages: Python (core), Java (DSA & OOP), SQL
+- 🌐 Web Technologies: HTML5, CSS3
+- 🤖 AI, ML, NLP
+- 🗄️ Database: MySQL
+- 🛠️ Tools: Git, GitHub, VS Code, Google Colab
   
 ---
 
